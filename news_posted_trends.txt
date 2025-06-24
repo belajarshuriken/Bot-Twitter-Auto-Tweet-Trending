@@ -14,3 +14,4 @@ $scr
 Qatar
 Zegras
 Jrue
+PancakeSwap
