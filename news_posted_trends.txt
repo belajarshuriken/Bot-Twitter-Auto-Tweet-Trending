@@ -26,3 +26,4 @@ Egypt_IS_Calling
 Polymer Labs
 $ARPA
 New York
+WalletConnect
