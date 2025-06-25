@@ -28,3 +28,4 @@ $ARPA
 New York
 WalletConnect
 Berachain
+DappRadar
