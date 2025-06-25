@@ -29,3 +29,4 @@ New York
 WalletConnect
 Berachain
 DappRadar
+Bitget
