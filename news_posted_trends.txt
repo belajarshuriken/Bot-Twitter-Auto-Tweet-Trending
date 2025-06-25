@@ -27,3 +27,4 @@ Polymer Labs
 $ARPA
 New York
 WalletConnect
+Berachain
