@@ -31,3 +31,4 @@ Berachain
 DappRadar
 Bitget
 NBADraft
+Utah
