@@ -30,3 +30,4 @@ WalletConnect
 Berachain
 DappRadar
 Bitget
+NBADraft
