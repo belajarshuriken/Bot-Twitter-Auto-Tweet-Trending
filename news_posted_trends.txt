@@ -49,3 +49,4 @@ Cierra
 SquidGame
 HemiNetwork
 Good Friday
+SCOTUS
