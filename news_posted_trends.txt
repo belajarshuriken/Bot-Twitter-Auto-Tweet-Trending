@@ -50,3 +50,4 @@ SquidGame
 HemiNetwork
 Good Friday
 SCOTUS
+Supreme Court
